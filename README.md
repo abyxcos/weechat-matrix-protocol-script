@@ -33,7 +33,7 @@ weechat
 ```
 
 ```
-/lua load matrix.lua
+/script load matrix.lua
 /set plugins.var.lua.matrix.user username
 /set plugins.var.lua.matrix.password secret
 /matrix connect
